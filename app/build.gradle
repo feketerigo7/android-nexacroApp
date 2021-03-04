@@ -34,6 +34,9 @@ dependencies {
     implementation 'com.google.firebase:firebase-messaging:21.0.1'
 
     implementation 'androidx.exifinterface:exifinterface:1.3.2'
+
+    // np-17.1.3.aar은 project/app/libs 에 위치 시킨다.
+    implementation name: 'np-17.1.3', ext: 'aar'
 }
 
 apply plugin: 'com.google.gms.google-services'
