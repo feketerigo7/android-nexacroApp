@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "995072755403",
+    "firebase_url": "https://summer-nexus-581.firebaseio.com",
+    "project_id": "summer-nexus-581",
+    "storage_bucket": "summer-nexus-581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995072755403:android:28b014c688afb816",
+        "android_client_info": {
+          "package_name": "com.example.nexacroapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995072755403-ksam7299dh20s90batq23eis6gpv1749.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaOYYoqFY9-AcA_P5jUtK_-2EmeoLvy7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
